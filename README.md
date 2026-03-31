@@ -1,4 +1,4 @@
-# Retail-Sales-Analytics-Pipeline SQL-Python-ETL
+# Retail-Sales-Analytics-Pipeline 
 
 ## Overview
 End-to-end data analytics project analysing 9,994 retail sales 
